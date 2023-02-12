@@ -16,7 +16,7 @@ nav{
 }
 
 .navbar-contents{
-    padding-left: 50px;
+    padding-left: 100px;
 }
 
 .navbar-contents-top{
@@ -29,7 +29,7 @@ nav{
 .navbar-contents-top-left a{
     color: black;
     text-decoration: none;
-    margin-right: 20px;
+    margin-right: 50px;
 }
 
 .navbar-contents-top-right{
@@ -39,7 +39,7 @@ nav{
 .navbar-contents-top-right a{
     color:black;
     text-decoration: none;
-    margin-left: 20px;
+    margin-left: 50px;
 }
 
 .navbar-contents-top-right #location{
@@ -55,10 +55,10 @@ nav{
 }
 
 .navbar-contents-bottom a{
-    margin-right: 20px;
+    margin-right: 60px;
     color: black;
     text-decoration: none;
-font-weight: 400;
+    font-weight: 400;
 }
 
 
@@ -122,6 +122,7 @@ font-weight: 400;
 .footer{
     display: flex;
     justify-content: space-between;
+    margin-top: 70px;
 }
 .footer .footer-links h3{
     padding-bottom: 20px;
